@@ -1,0 +1,7 @@
+package com.example.opengl;
+
+import android.opengl.GLSurfaceView;
+
+public class MyTDView extends GLSurfaceView{
+
+}
