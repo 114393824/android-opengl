@@ -12,8 +12,6 @@ public class MainActivity extends Activity{
 		super.onCreate(savedInstanceState);
         //设置为竖屏模式
 		setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-		
-		
 	}
 
 	@Override
