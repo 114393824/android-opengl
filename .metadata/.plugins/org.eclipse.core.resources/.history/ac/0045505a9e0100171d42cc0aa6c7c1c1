@@ -1,0 +1,24 @@
+package com.bn.clp;
+
+public class Constant {
+	// 
+	public static boolean BgSoundFlag;// 
+	public static boolean SoundEffectFlag;//
+
+	// 
+	public static float SCREEN_WIDTH;
+	public static float SCREEN_HEIGHT;
+
+	//
+	public static int screenId = 0;
+	public static float screenRatio;
+
+	public static final float screenRatio480x320 = 1.5f;//
+	public static final float screenRatio800x480 = 1.667f;
+	public static final float screenRatio854x480 = 1.779f;
+	public static final float screenRatio960x540 = 1.778f;
+	
+	//
+    public static float ratio_width;
+    public static float ratio_height;
+}

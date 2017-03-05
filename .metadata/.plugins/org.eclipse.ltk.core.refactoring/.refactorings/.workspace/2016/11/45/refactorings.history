@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;bnst_min&apos; to &apos;bnst_mine&apos;&#x0A;- Original element: &apos;bnst_min&apos;&#x0A;- Renamed element: &apos;bnst_min&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;bnst_min&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=bnst_min" name="bnst_mine" references="true" stamp="1478181941164" version="1.0"/>
+</session>

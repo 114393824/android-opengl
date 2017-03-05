@@ -1,0 +1,8 @@
+package com.bn.st.d2;
+
+import android.view.SurfaceHolder;
+import android.view.SurfaceView;
+
+public class ViewForDraw  extends SurfaceView implements SurfaceHolder.Callback{
+
+}

@@ -1,0 +1,7 @@
+package com.bn.st.d2;
+
+import android.view.SurfaceView;
+
+public class ViewForDraw  extends SurfaceView {
+
+}
